@@ -5,7 +5,7 @@
 <head>
 
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
@@ -47,7 +47,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- Les données seront insérées ici dynamiquement -->
+                   
                 </tbody>
             </table>
         </div>
@@ -78,7 +78,7 @@
         </div>
     </section>
 
-    <!-- Add Product Modal -->
+   
     <div class="modal fade" id="addProductModal" tabindex="-1" aria-labelledby="addProductModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
